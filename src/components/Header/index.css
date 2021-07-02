@@ -1,0 +1,26 @@
+.wave-logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.tabs-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  width: 25%;
+  margin-right: 10px;
+}
+.tab-text {
+  color: #551e53;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 17px;
+}
